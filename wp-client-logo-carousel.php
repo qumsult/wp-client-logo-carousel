@@ -275,7 +275,7 @@ function wpaft_logo_slider_callback( $atts ) {
 	
 	}else{
 		
-		echo "No Image is added.";
+		echo "Kein Eintrag vorhanden.";
 	}
 	
 	return ob_get_clean();
